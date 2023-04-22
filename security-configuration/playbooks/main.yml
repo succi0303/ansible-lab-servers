@@ -1,4 +1,3 @@
 ---
-- hosts: servers
-  roles:
-    - geerlingguy.security
+- roles:
+  - geerlingguy.security

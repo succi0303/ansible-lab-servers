@@ -1,0 +1,2 @@
+- name: Include geerlingguy.security role
+  include_role: geerlingguy.security

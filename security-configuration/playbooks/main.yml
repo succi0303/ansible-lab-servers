@@ -2,5 +2,5 @@
   gather_facts: true
   become: true
   tasks:
-    name: Include geerlingguy.security
+    - name: Include geerlingguy.security role
       include_role: geerlingguy.security

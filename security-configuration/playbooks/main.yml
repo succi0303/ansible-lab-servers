@@ -1,3 +1,4 @@
 ---
-- roles:
+- become: true
+  roles:
   - geerlingguy.security
